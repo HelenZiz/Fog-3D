@@ -3,10 +3,10 @@
 
 Конфигурация компьютера, на котором было выполнено задание:
 
-        1. ***OS***:  Windows 10
-	2. ***CPU***: Intel(R) Core(TM) i5-8250U CPU 1.60GHz 1.80GHz
-	3. ***RAM***: DDR4 8GB
-	4. ***GC***:  Intel HD Grafics 620
+1. ***OS***:  Windows 10
+2. ***CPU***: Intel(R) Core(TM) i5-8250U CPU 1.60GHz 1.80GHz
+3. ***RAM***: DDR4 8GB
+4. ***GC***:  Intel HD Grafics 620
 
 Среда разработки:
 	Microsoft Visual Studio 2019
